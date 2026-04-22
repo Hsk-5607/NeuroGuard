@@ -10,7 +10,7 @@ import gdown
 FILE_ID = 'PASTE_YOUR_GOOGLE_DRIVE_ID_HERE' 
 MODEL_PATH = "brain_tumor_model.h5"
 # This URL format bypasses the "Large File" warning screen
-URL = f'https://drive.google.com/uc?id={1aAMq0drxZzIMqDxX7DK7ZyOOX9Dbndz7}&confirm=t'
+URL = f'https://drive.google.com/uc?id='1aAMq0drxZzIMqDxX7DK7ZyOOX9Dbndz7'&confirm=t'
 
 # --- 2. MODEL LOADING ---
 @st.cache_resource
