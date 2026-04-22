@@ -1,4 +1,6 @@
-tensorflow-cpu==2.15.0
 streamlit
-Pillow
-numpy<2.0.0
+tensorflow-cpu
+opencv-python-headless
+pillow
+numpy
+matplotlib
