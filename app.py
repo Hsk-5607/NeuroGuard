@@ -4,9 +4,9 @@ import streamlit as st
 import gdown
 
 # 1. Configuration
-FILE_ID = '1A2B3C4D5E6F7G8H9' # <--- PASTE YOUR ID HERE
+FILE_ID = '1aAMq0drxZzIMqDxX7DK7ZyOOX9Dbndz7' # <--- PASTE YOUR ID HERE
 MODEL_PATH = "brain_tumor_model.h5"
-URL = f'https://drive.google.com/uc?id={FILE_ID}'
+URL = f'https://drive.google.com/uc?id=1aAMq0drxZzIMqDxX7DK7ZyOOX9Dbndz7'
 
 # 2. Function to fetch and load the model
 @st.cache_resource
